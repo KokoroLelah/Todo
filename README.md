@@ -6,4 +6,4 @@ Doogether Test
 yarn / npm i
 
 # Demo Video
-![app demo](https://1drv.ms/v/s!AgWFcGaO4qJI4GKzhXStASB6xKZ-)
+https://1drv.ms/v/s!AgWFcGaO4qJI4GKzhXStASB6xKZ-
