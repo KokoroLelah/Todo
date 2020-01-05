@@ -1,8 +1,9 @@
+# This is an React native CLI apps
 # Todo
 Doogether Test
 
 # Installation
-yarn add
+yarn / npm i
 
-# Demo
-![app demo](https://im4.ezgif.com/tmp/ezgif-4-69ab86156695.gif)
+# Demo Video
+![app demo](https://1drv.ms/v/s!AgWFcGaO4qJI4GKzhXStASB6xKZ-)
