@@ -32,7 +32,6 @@ const TabScreen = createMaterialTopTabNavigator(
   },
 );
 
-//making a StackNavigator to export as default
 const App = createStackNavigator({
   TabScreen: {
     screen: TabScreen,
